@@ -76,6 +76,12 @@ header{
     padding: 100px;
 }
 
+.sec-2{
+    position: relative;
+    background: #8cd6c7;
+    padding: 100px;
+}
+
 .sec h2{
     font-size: 3em;
     color: #fff;
