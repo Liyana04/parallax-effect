@@ -32,7 +32,7 @@ header{
     margin-right: 270px;
 }
 
-.navigation a{
+.list-navigation a{
     text-decoration: none;
     color: #359381;
     padding: 6px 15px;
@@ -41,8 +41,8 @@ header{
     font-weight: 600;
 }
 
-.navigation a:hover, 
-.navigation a.active{
+.list-navigation a:hover, 
+.list-navigation a.active{
     background: #359381;
     color: #ffffff;
 }
